@@ -1,0 +1,77 @@
+[{
+    "boundingbox": [
+        "43.2127608773158",
+        "-2.41864337871043",
+        "-2.41813726042844",
+        "43.2125478841537"
+    ],
+    "importance": 2.8540556,
+    "b5m_id": "Z_A117160",
+    "GFA_code1": "117160",
+    "GFA_code2": "416459",
+    "GFA_id": "117160",
+    "display_name": "Sigmako zubia",
+    "type": "district and/or urban name",
+    "city": "Elgoibar",
+    "lon": "-2.41839385632388",
+    "lat": "43.2126514724515",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/Z_A117160"
+},
+{
+    "boundingbox": [
+        "43.2150091454503",
+        "-2.4177529425",
+        "-2.41725554568695",
+        "43.2146929187655"
+    ],
+    "importance": 2.8540556,
+    "b5m_id": "Z_A117161",
+    "GFA_code1": "117161",
+    "GFA_code2": "416460",
+    "GFA_id": "117161",
+    "display_name": "Txankakoako zubia",
+    "type": "district and/or urban name",
+    "city": "Elgoibar",
+    "lon": "-2.41749880816063",
+    "lat": "43.2148530757747",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/Z_A117161"
+},
+{
+    "boundingbox": [
+        "43.2169838399434",
+        "-2.41154979824929",
+        "-2.41119327223903",
+        "43.2165392873488"
+    ],
+    "importance": 2.8540556,
+    "b5m_id": "Z_A117162",
+    "GFA_code1": "117162",
+    "GFA_code2": "416461",
+    "GFA_id": "117162",
+    "display_name": "Maalako zubia",
+    "type": "district and/or urban name",
+    "city": "Elgoibar",
+    "lon": "-2.41137392241637",
+    "lat": "43.2167577400487",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/Z_A117162"
+},
+{
+    "boundingbox": [
+        "43.2204026288563",
+        "-2.40634751402587",
+        "-2.40577295531433",
+        "43.219841433397"
+    ],
+    "importance": 2.8540556,
+    "b5m_id": "Z_A117164",
+    "GFA_code1": "117164",
+    "GFA_code2": "416463",
+    "GFA_id": "117164",
+    "display_name": "Melitoneko zubia",
+    "type": "district and/or urban name",
+    "city": "Elgoibar",
+    "lon": "-2.40605938789161",
+    "lat": "43.2201250490514",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/Z_A117164"
+}
+]
