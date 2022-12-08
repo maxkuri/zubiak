@@ -1,0 +1,3475 @@
+[{
+    "boundingbox": [
+        "43.2127608773158",
+        "-2.41864337871043",
+        "-2.41813726042844",
+        "43.2125478841537"
+    ],
+    "importance": 2.8540556,
+    "b5m_id": "Z_A117160",
+    "GFA_code1": "117160",
+    "GFA_code2": "416459",
+    "GFA_id": "117160",
+    "display_name": "Sigmako zubia",
+    "type": "district and/or urban name",
+    "city": "Elgoibar",
+    "lon": "-2.41839385632388",
+    "lat": "43.2126514724515",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/Z_A117160"
+},
+{
+    "boundingbox": [
+        "43.2150091454503",
+        "-2.4177529425",
+        "-2.41725554568695",
+        "43.2146929187655"
+    ],
+    "importance": 2.8540556,
+    "b5m_id": "Z_A117161",
+    "GFA_code1": "117161",
+    "GFA_code2": "416460",
+    "GFA_id": "117161",
+    "display_name": "Txankakoako zubia",
+    "type": "district and/or urban name",
+    "city": "Elgoibar",
+    "lon": "-2.41749880816063",
+    "lat": "43.2148530757747",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/Z_A117161"
+},
+{
+    "boundingbox": [
+        "43.2169838399434",
+        "-2.41154979824929",
+        "-2.41119327223903",
+        "43.2165392873488"
+    ],
+    "importance": 2.8540556,
+    "b5m_id": "Z_A117162",
+    "GFA_code1": "117162",
+    "GFA_code2": "416461",
+    "GFA_id": "117162",
+    "display_name": "Maalako zubia",
+    "type": "district and/or urban name",
+    "city": "Elgoibar",
+    "lon": "-2.41137392241637",
+    "lat": "43.2167577400487",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/Z_A117162"
+},
+{
+    "boundingbox": [
+        "43.2204026288563",
+        "-2.40634751402587",
+        "-2.40577295531433",
+        "43.219841433397"
+    ],
+    "importance": 2.8540556,
+    "b5m_id": "Z_A117164",
+    "GFA_code1": "117164",
+    "GFA_code2": "416463",
+    "GFA_id": "117164",
+    "display_name": "Melitoneko zubia",
+    "type": "district and/or urban name",
+    "city": "Elgoibar",
+    "lon": "-2.40605938789161",
+    "lat": "43.2201250490514",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/Z_A117164"
+},
+{
+    "boundingbox": [
+        "43.1858669505192",
+        "-2.46613501635607",
+        "-2.46589484223637",
+        "43.1853350153112"
+    ],
+    "importance": 2.8540556,
+    "b5m_id": "K_030_7002",
+    "GFA_code1": "030",
+    "GFA_code2": "7002",
+    "GFA_id": "1341",
+    "display_name": "Arikitxaneko zubia",
+    "type": "street",
+    "city": "Eibar",
+    "lon": "-2.46601557234389",
+    "lat": "43.1855992701166",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_030_7002"
+},
+{
+    "boundingbox": [
+        "43.2280942113375",
+        "-2.0264580098004",
+        "-2.02603728827045",
+        "43.2269456903885"
+    ],
+    "importance": 2.8540556,
+    "b5m_id": "K_009_7031",
+    "GFA_code1": "009",
+    "GFA_code2": "7031",
+    "GFA_id": "147109",
+    "display_name": "Zanoni zubia",
+    "type": "street",
+    "city": "Andoain",
+    "lon": "-2.02625649642778",
+    "lat": "43.2275178134392",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_009_7031"
+},
+{
+    "boundingbox": [
+        "43.2169100653553",
+        "-2.02286402755621",
+        "-2.02195981817175",
+        "43.2166629694619"
+    ],
+    "importance": 2.8540556,
+    "b5m_id": "K_009_7034",
+    "GFA_code1": "009",
+    "GFA_code2": "7034",
+    "GFA_id": "590",
+    "display_name": "Alondegi zubia",
+    "type": "street",
+    "city": "Andoain",
+    "lon": "-2.02241357621113",
+    "lat": "43.2167875049053",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_009_7034"
+},
+{
+    "boundingbox": [
+        "43.2957650158341",
+        "-1.85723952056406",
+        "-1.85160553205198",
+        "43.2938998747124"
+    ],
+    "importance": 2.8540556,
+    "b5m_id": "K_063_1440",
+    "GFA_code1": "063",
+    "GFA_code2": "1440",
+    "GFA_id": "2754",
+    "display_name": "Olako zubia",
+    "type": "street",
+    "city": "Oiartzun",
+    "lon": "-1.85216568794491",
+    "lat": "43.2947612962593",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_063_1440"
+},
+{
+    "boundingbox": [
+        "43.0705777925631",
+        "-2.44798189200409",
+        "-2.44745941868644",
+        "43.0699515828087"
+    ],
+    "postcode": "20569",
+    "bis": "C",
+    "door_number": "74",
+    "importance": 2.8540556,
+    "b5m_id": "D_A38451",
+    "GFA_code1": "71835",
+    "GFA_code2": "38451",
+    "GFA_id": "71835",
+    "display_name": "Nemesio Zubia",
+    "type": "building",
+    "city": "Oñati",
+    "street": "Zubillaga auzoa",
+    "lon": "-2.44772183726177",
+    "lat": "43.0702682191086",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/D_A38451"
+},
+{
+    "boundingbox": [
+        "43.0853568836996",
+        "-2.12905476998876",
+        "-2.12862615153512",
+        "43.0851730062322"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152395",
+    "GFA_code1": "152395",
+    "GFA_id": "152395",
+    "display_name": "Olazabalgo zubia",
+    "type": "bridge",
+    "city": "Ikaztegieta,Legorreta",
+    "lon": "-2.12883675866711",
+    "lat": "43.0852681627833",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152395"
+},
+{
+    "boundingbox": [
+        "42.9833752355661",
+        "-2.56651840964826",
+        "-2.56638877550892",
+        "42.9832341896486"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152396",
+    "GFA_code1": "152396",
+    "GFA_id": "152396",
+    "display_name": "Dorlas zubia",
+    "type": "bridge",
+    "city": "Leintz-Gatzaga",
+    "lon": "-2.56645657694373",
+    "lat": "42.983304780661",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152396"
+},
+{
+    "boundingbox": [
+        "43.0997791265035",
+        "-2.03602166313123",
+        "-2.03571570972797",
+        "43.0995720187983"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152398",
+    "GFA_code1": "152398",
+    "GFA_id": "152398",
+    "display_name": "Ubereta zubia",
+    "type": "bridge",
+    "city": "Lizartza",
+    "lon": "-2.0358669226754",
+    "lat": "43.0996777654218",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152398"
+},
+{
+    "boundingbox": [
+        "43.0275104742463",
+        "-2.38687896737417",
+        "-2.38679662091639",
+        "43.0274122328716"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152406",
+    "GFA_code1": "152406",
+    "GFA_id": "152406",
+    "display_name": "Ugarte zubia",
+    "type": "bridge",
+    "city": "Oñati",
+    "lon": "-2.38683341372099",
+    "lat": "43.0274636795045",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152406"
+},
+{
+    "boundingbox": [
+        "43.0283456068893",
+        "-2.43319045918996",
+        "-2.432991645051",
+        "43.0282134309711"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152407",
+    "GFA_code1": "152407",
+    "GFA_id": "152407",
+    "display_name": "Lamiategi zubia",
+    "type": "bridge",
+    "city": "Oñati",
+    "lon": "-2.43308701143117",
+    "lat": "43.0282784633795",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152407"
+},
+{
+    "boundingbox": [
+        "43.0163231444307",
+        "-2.25152287711976",
+        "-2.25124663252051",
+        "43.0161574723424"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152410",
+    "GFA_code1": "152410",
+    "GFA_id": "152410",
+    "display_name": "Merkategi zubia",
+    "type": "bridge",
+    "city": "Segura",
+    "lon": "-2.25139023084963",
+    "lat": "43.0162390835832",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152410"
+},
+{
+    "boundingbox": [
+        "43.0094930008381",
+        "-2.25512183452573",
+        "-2.2548096436335",
+        "43.0093748220696"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152411",
+    "GFA_code1": "152411",
+    "GFA_id": "152411",
+    "display_name": "Zubiaundi zubia",
+    "type": "bridge",
+    "city": "Segura",
+    "lon": "-2.25496993955716",
+    "lat": "43.0094366404069",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152411"
+},
+{
+    "boundingbox": [
+        "43.0062635174543",
+        "-2.25985322308701",
+        "-2.25968765652996",
+        "43.0061451293438"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152412",
+    "GFA_code1": "152412",
+    "GFA_id": "152412",
+    "display_name": "Armaola zubia",
+    "type": "bridge",
+    "city": "Segura",
+    "lon": "-2.25976965996435",
+    "lat": "43.0062079654194",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152412"
+},
+{
+    "boundingbox": [
+        "43.0028297742841",
+        "-2.26618328723184",
+        "-2.26602297308648",
+        "43.0026665003715"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152413",
+    "GFA_code1": "152413",
+    "GFA_id": "152413",
+    "display_name": "Errotaberri zubia",
+    "type": "bridge",
+    "city": "Segura",
+    "lon": "-2.26610530507014",
+    "lat": "43.0027458099911",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152413"
+},
+{
+    "boundingbox": [
+        "42.9973919642211",
+        "-2.27027677517014",
+        "-2.27012893054746",
+        "42.9972852282273"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152414",
+    "GFA_code1": "152414",
+    "GFA_id": "152414",
+    "display_name": "Arrabiola zubia",
+    "type": "bridge",
+    "city": "Segura",
+    "lon": "-2.27020581841341",
+    "lat": "42.997341992047",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152414"
+},
+{
+    "boundingbox": [
+        "43.1742362933277",
+        "-2.41398631627958",
+        "-2.41349084867733",
+        "43.1739216792146"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152415",
+    "GFA_code1": "152415",
+    "GFA_id": "152415",
+    "display_name": "Gila zubia",
+    "type": "bridge",
+    "city": "Soraluze-Placencia de las Armas",
+    "lon": "-2.41374025001439",
+    "lat": "43.174078364738",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152415"
+},
+{
+    "boundingbox": [
+        "43.141086452596",
+        "-2.07223058390166",
+        "-2.07146397034136",
+        "43.1404298800236"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152416",
+    "GFA_code1": "152416",
+    "GFA_id": "152416",
+    "display_name": "Arramele zubia",
+    "type": "bridge",
+    "city": "Tolosa",
+    "lon": "-2.07185342196719",
+    "lat": "43.1407581654153",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152416"
+},
+{
+    "boundingbox": [
+        "43.1272254611882",
+        "-2.08062877709365",
+        "-2.08028182829672",
+        "43.1271511540129"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152418",
+    "GFA_code1": "152418",
+    "GFA_id": "152418",
+    "display_name": "Amarotz zubia",
+    "type": "bridge",
+    "city": "Tolosa",
+    "lon": "-2.08045545098274",
+    "lat": "43.1271853499394",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152418"
+},
+{
+    "boundingbox": [
+        "43.108579618236",
+        "-2.31765573059704",
+        "-2.31754909699643",
+        "43.1084165558674"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152419",
+    "GFA_code1": "152419",
+    "GFA_id": "152419",
+    "display_name": "Leturiondo zubia",
+    "type": "bridge",
+    "city": "Urretxu,Zumarraga",
+    "lon": "-2.31760521900688",
+    "lat": "43.108494501842",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152419"
+},
+{
+    "boundingbox": [
+        "43.0391629782928",
+        "-2.15075035114623",
+        "-2.15060007784399",
+        "43.039062108505"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152422",
+    "GFA_code1": "152422",
+    "GFA_id": "152422",
+    "display_name": "Kanpain zubia",
+    "type": "bridge",
+    "city": "Zaldibia",
+    "lon": "-2.1506791023313",
+    "lat": "43.0391110414326",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152422"
+},
+{
+    "boundingbox": [
+        "43.0300763183407",
+        "-2.15091746937203",
+        "-2.15063101870724",
+        "43.0299946950725"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152423",
+    "GFA_code1": "152423",
+    "GFA_id": "152423",
+    "display_name": "Anarrubieta zubia",
+    "type": "bridge",
+    "city": "Zaldibia",
+    "lon": "-2.15077971630391",
+    "lat": "43.0300347819779",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152423"
+},
+{
+    "boundingbox": [
+        "43.0238341651446",
+        "-2.15124751709772",
+        "-2.15109349222838",
+        "43.023663043407"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152424",
+    "GFA_code1": "152424",
+    "GFA_id": "152424",
+    "display_name": "Zubialde zubia",
+    "type": "bridge",
+    "city": "Zaldibia",
+    "lon": "-2.1511731549994",
+    "lat": "43.0237522259499",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152424"
+},
+{
+    "boundingbox": [
+        "43.2165685578011",
+        "-2.25762520803028",
+        "-2.25711436851263",
+        "43.21633708946"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152425",
+    "GFA_code1": "152425",
+    "GFA_id": "152425",
+    "display_name": "Lasao zubia",
+    "type": "bridge",
+    "city": "Azpeitia,Zestoa",
+    "lon": "-2.25736683517282",
+    "lat": "43.2164559635826",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152425"
+},
+{
+    "boundingbox": [
+        "43.2383748812651",
+        "-2.25812552224698",
+        "-2.25785936464092",
+        "43.2379451070623"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152426",
+    "GFA_code1": "152426",
+    "GFA_id": "152426",
+    "display_name": "Zubiaurre zubia",
+    "type": "bridge",
+    "city": "Zestoa",
+    "lon": "-2.25799004923889",
+    "lat": "43.2381612947349",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152426"
+},
+{
+    "boundingbox": [
+        "43.2318997734089",
+        "-2.25588044826126",
+        "-2.25573461584651",
+        "43.2315491051214"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152427",
+    "GFA_code1": "152427",
+    "GFA_id": "152427",
+    "display_name": "Gesalaga zubia",
+    "type": "bridge",
+    "city": "Zestoa",
+    "lon": "-2.25580215942347",
+    "lat": "43.2317267514027",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152427"
+},
+{
+    "boundingbox": [
+        "43.2550106577114",
+        "-2.26139294461856",
+        "-2.26065245211849",
+        "43.2548780424588"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152428",
+    "GFA_code1": "152428",
+    "GFA_id": "152428",
+    "display_name": "Iraeta zubia",
+    "type": "bridge",
+    "city": "Zestoa",
+    "lon": "-2.26102633606791",
+    "lat": "43.2549476149449",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152428"
+},
+{
+    "boundingbox": [
+        "43.2408362846583",
+        "-2.20798777728118",
+        "-2.20783427035429",
+        "43.2407651483547"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152429",
+    "GFA_code1": "152429",
+    "GFA_id": "152429",
+    "display_name": "Altzolaras zubia",
+    "type": "bridge",
+    "city": "Aia,Zestoa",
+    "lon": "-2.20791482912116",
+    "lat": "43.240797057725",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152429"
+},
+{
+    "boundingbox": [
+        "43.2512292480627",
+        "-2.23428316483009",
+        "-2.23421775012042",
+        "43.2511237679085"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152430",
+    "GFA_code1": "152430",
+    "GFA_id": "152430",
+    "display_name": "Bengoetxea zubia",
+    "type": "bridge",
+    "city": "Zestoa",
+    "lon": "-2.23425363267047",
+    "lat": "43.251178673701",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152430"
+},
+{
+    "boundingbox": [
+        "43.2610822791855",
+        "-1.97690020580159",
+        "-1.97474629976394",
+        "43.2602294994556"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152450",
+    "GFA_code1": "152450",
+    "GFA_id": "152450",
+    "display_name": "Portu zubia",
+    "type": "bridge",
+    "city": "Hernani",
+    "lon": "-1.97582938129012",
+    "lat": "43.2606556473577",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152450"
+},
+{
+    "boundingbox": [
+        "43.2593893071098",
+        "-2.23583947843707",
+        "-2.23564774651126",
+        "43.259018718761"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152451",
+    "GFA_code1": "152451",
+    "GFA_id": "152451",
+    "display_name": "Zubialde zubia",
+    "type": "bridge",
+    "city": "Aizarnazabal",
+    "lon": "-2.23574242783459",
+    "lat": "43.2592027574642",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152451"
+},
+{
+    "boundingbox": [
+        "43.2671068788984",
+        "-2.23441140535983",
+        "-2.23410098322212",
+        "43.2668057986049"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152452",
+    "GFA_code1": "152452",
+    "GFA_id": "152452",
+    "display_name": "Etxabe zubia",
+    "type": "bridge",
+    "city": "Aizarnazabal",
+    "lon": "-2.23425304985457",
+    "lat": "43.2669547834113",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152452"
+},
+{
+    "boundingbox": [
+        "42.9627386872722",
+        "-2.16893862111452",
+        "-2.1687796058935",
+        "42.9626201734268"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152455",
+    "GFA_code1": "152455",
+    "GFA_id": "152455",
+    "display_name": "Atxurranea zubia",
+    "type": "bridge",
+    "city": "Ataun",
+    "lon": "-2.16886007806749",
+    "lat": "42.9626838368113",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152455"
+},
+{
+    "boundingbox": [
+        "43.1779566334649",
+        "-2.31128674520859",
+        "-2.31093749694699",
+        "43.1777176435778"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152457",
+    "GFA_code1": "152457",
+    "GFA_id": "152457",
+    "display_name": "Azkoitia zubia",
+    "type": "bridge",
+    "city": "Azkoitia",
+    "lon": "-2.3111120617256",
+    "lat": "43.1778377416095",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152457"
+},
+{
+    "boundingbox": [
+        "43.179682254164",
+        "-2.31834921298201",
+        "-2.31808262609875",
+        "43.1795894611333"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152458",
+    "GFA_code1": "152458",
+    "GFA_id": "152458",
+    "display_name": "Mekoleta zubia",
+    "type": "bridge",
+    "city": "Azkoitia",
+    "lon": "-2.31821616469961",
+    "lat": "43.1796362265794",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152458"
+},
+{
+    "boundingbox": [
+        "43.1862922338156",
+        "-2.32646568082186",
+        "-2.326275133899",
+        "43.1861303716759"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152459",
+    "GFA_code1": "152459",
+    "GFA_id": "152459",
+    "display_name": "Olaberria zubia",
+    "type": "bridge",
+    "city": "Azkoitia",
+    "lon": "-2.32637558791982",
+    "lat": "43.1862130113225",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152459"
+},
+{
+    "boundingbox": [
+        "43.1403756245911",
+        "-2.3493238871331",
+        "-2.34910365869077",
+        "43.1402228389663"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152460",
+    "GFA_code1": "152460",
+    "GFA_id": "152460",
+    "display_name": "Patrongua zubia",
+    "type": "bridge",
+    "city": "Azkoitia",
+    "lon": "-2.3492105288382",
+    "lat": "43.1403036707683",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152460"
+},
+{
+    "boundingbox": [
+        "43.1811633415367",
+        "-2.26026787136452",
+        "-2.25989427290594",
+        "43.1808502143238"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152461",
+    "GFA_code1": "152461",
+    "GFA_id": "152461",
+    "display_name": "Amube zubia",
+    "type": "bridge",
+    "city": "Azpeitia",
+    "lon": "-2.26008537400158",
+    "lat": "43.1810039549888",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152461"
+},
+{
+    "boundingbox": [
+        "43.2150413582436",
+        "-2.02300919937597",
+        "-2.02220752113707",
+        "43.2147130054979"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "K_009_7032",
+    "GFA_code1": "009",
+    "GFA_code2": "7032",
+    "GFA_id": "147110",
+    "display_name": "Isidro Langara zubia",
+    "type": "street",
+    "city": "Andoain",
+    "lon": "-2.02260409727393",
+    "lat": "43.2148801437688",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_009_7032"
+},
+{
+    "boundingbox": [
+        "43.2105140258391",
+        "-2.4182193897124",
+        "-2.41765634443155",
+        "43.2103450399764"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "Z_A153535",
+    "GFA_code1": "153535",
+    "GFA_code2": "669304",
+    "GFA_id": "153535",
+    "display_name": "Goikoerrotako zubia",
+    "type": "district and/or urban name",
+    "city": "Elgoibar",
+    "lon": "-2.41793480907443",
+    "lat": "43.2104339750286",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/Z_A153535"
+},
+{
+    "boundingbox": [
+        "43.0270392435147",
+        "-2.18275445417788",
+        "-2.18237975618764",
+        "43.0268359048514"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152493",
+    "GFA_code1": "152493",
+    "GFA_id": "152493",
+    "display_name": "Zubierreka zubia",
+    "type": "bridge",
+    "city": "Lazkao",
+    "lon": "-2.18256289995703",
+    "lat": "43.0269343722864",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152493"
+},
+{
+    "boundingbox": [
+        "43.0781611391706",
+        "-2.44666075510677",
+        "-2.44640436275484",
+        "43.0779106641258"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152497",
+    "GFA_code1": "152497",
+    "GFA_id": "152497",
+    "display_name": "Elorregi zubia",
+    "type": "bridge",
+    "city": "Oñati",
+    "lon": "-2.4465342369354",
+    "lat": "43.0780337486467",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152497"
+},
+{
+    "boundingbox": [
+        "43.0306482118177",
+        "-2.40868928814428",
+        "-2.40839311150835",
+        "43.0303524267053"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152498",
+    "GFA_code1": "152498",
+    "GFA_id": "152498",
+    "display_name": "Etxatxo zubia",
+    "type": "bridge",
+    "city": "Oñati",
+    "lon": "-2.40854165050476",
+    "lat": "43.0305045540348",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152498"
+},
+{
+    "boundingbox": [
+        "42.9803928629683",
+        "-2.40806540126899",
+        "-2.40790515541001",
+        "42.9801795351758"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152499",
+    "GFA_code1": "152499",
+    "GFA_id": "152499",
+    "display_name": "Iritegi zubia",
+    "type": "bridge",
+    "city": "Oñati",
+    "lon": "-2.40798070879264",
+    "lat": "42.9802895073454",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152499"
+},
+{
+    "boundingbox": [
+        "43.0642072950263",
+        "-2.17083510500773",
+        "-2.17070300462628",
+        "43.0639537989973"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152500",
+    "GFA_code1": "152500",
+    "GFA_id": "152500",
+    "display_name": "Ibares zubia",
+    "type": "bridge",
+    "city": "Arama,Itsasondo",
+    "lon": "-2.17077059129977",
+    "lat": "43.0640850155996",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152500"
+},
+{
+    "boundingbox": [
+        "43.2709385745123",
+        "-2.06743495125591",
+        "-2.06698980790562",
+        "43.2700975460942"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152501",
+    "GFA_code1": "152501",
+    "GFA_id": "152501",
+    "display_name": "Altzonazko zubia",
+    "type": "bridge",
+    "city": "Usurbil",
+    "lon": "-2.06720991714471",
+    "lat": "43.2705139883387",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152501"
+},
+{
+    "boundingbox": [
+        "43.1623642786652",
+        "-2.24410770732198",
+        "-2.24387962447976",
+        "43.1622098961408"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152503",
+    "GFA_code1": "152503",
+    "GFA_id": "152503",
+    "display_name": "Olalde zubia",
+    "type": "bridge",
+    "city": "Azpeitia",
+    "lon": "-2.24398783699085",
+    "lat": "43.162285857157",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152503"
+},
+{
+    "boundingbox": [
+        "43.156444785959",
+        "-2.40545111715691",
+        "-2.40531037881751",
+        "43.156021861464"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152504",
+    "GFA_code1": "152504",
+    "GFA_id": "152504",
+    "display_name": "Osintxuko xubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.40537478878277",
+    "lat": "43.1562327074487",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152504"
+},
+{
+    "boundingbox": [
+        "43.1720375427429",
+        "-2.40975489107927",
+        "-2.40942555698953",
+        "43.1716910841924"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152507",
+    "GFA_code1": "152507",
+    "GFA_id": "152507",
+    "display_name": "Olako zubia",
+    "type": "bridge",
+    "city": "Soraluze-Placencia de las Armas",
+    "lon": "-2.409590759527",
+    "lat": "43.1718598589724",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152507"
+},
+{
+    "boundingbox": [
+        "43.1332505253243",
+        "-1.98857683566149",
+        "-1.98839478710944",
+        "43.133145483701"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152510",
+    "GFA_code1": "152510",
+    "GFA_id": "152510",
+    "display_name": "Aiztun zubia",
+    "type": "bridge",
+    "city": "Berastegi",
+    "lon": "-1.98848364745561",
+    "lat": "43.1331988287134",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152510"
+},
+{
+    "boundingbox": [
+        "43.2027345805371",
+        "-2.42911772614823",
+        "-2.42876952421462",
+        "43.2024220070082"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152524",
+    "GFA_code1": "152524",
+    "GFA_id": "152524",
+    "display_name": "Barrenzubia zubia",
+    "type": "bridge",
+    "city": "Elgoibar",
+    "lon": "-2.42894006758636",
+    "lat": "43.2025742766841",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152524"
+},
+{
+    "boundingbox": [
+        "43.0639635493752",
+        "-2.27731489601023",
+        "-2.27254088486041",
+        "43.0618224978884"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152525",
+    "GFA_code1": "152525",
+    "GFA_id": "152525",
+    "display_name": "Zozabarro zubia",
+    "type": "bridge",
+    "city": "Ezkio-Itsaso,Gabiria",
+    "lon": "-2.27493070212614",
+    "lat": "43.0628923449772",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152525"
+},
+{
+    "boundingbox": [
+        "43.2659921671931",
+        "-1.97005460994916",
+        "-1.9692396627901",
+        "43.2657531131991"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152526",
+    "GFA_code1": "152526",
+    "GFA_id": "152526",
+    "display_name": "Karabelgo zubia",
+    "type": "bridge",
+    "city": "Hernani",
+    "lon": "-1.96964254474163",
+    "lat": "43.2658767695536",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152526"
+},
+{
+    "boundingbox": [
+        "43.261924392028",
+        "-2.01417830303399",
+        "-2.01379167600238",
+        "43.261307476802"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152568",
+    "GFA_code1": "152568",
+    "GFA_id": "152568",
+    "display_name": "Oztaran, zubia",
+    "type": "bridge",
+    "city": "Lasarte-Oria",
+    "lon": "-2.01398369495299",
+    "lat": "43.2616122315097",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152568"
+},
+{
+    "boundingbox": [
+        "43.261924392028",
+        "-2.01417830303399",
+        "-2.01379167600238",
+        "43.261307476802"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152571",
+    "GFA_code1": "152571",
+    "GFA_id": "152571",
+    "display_name": "Zatarainetxeberri, zubia",
+    "type": "bridge",
+    "city": "Lasarte-Oria",
+    "lon": "-2.01398369495299",
+    "lat": "43.2616122315097",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152571"
+},
+{
+    "boundingbox": [
+        "43.2662102551346",
+        "-2.01639255505272",
+        "-2.01591727119953",
+        "43.2654123624211"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152572",
+    "GFA_code1": "152572",
+    "GFA_id": "152572",
+    "display_name": "Loidi, zubia",
+    "type": "bridge",
+    "city": "Lasarte-Oria",
+    "lon": "-2.01615852376574",
+    "lat": "43.2658090888945",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152572"
+},
+{
+    "boundingbox": [
+        "43.2028216034956",
+        "-2.01244792312386",
+        "-2.0120796106957",
+        "43.2024882874743"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A140842",
+    "GFA_code1": "140842",
+    "GFA_id": "140842",
+    "display_name": "Unanibiko zubia",
+    "type": "place, spot",
+    "city": "Andoain",
+    "lon": "-2.01226274179157",
+    "lat": "43.202653016518",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A140842"
+},
+{
+    "boundingbox": [
+        "43.3238914605048",
+        "-1.98075329521403",
+        "-1.97927418275432",
+        "43.3231496817741"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152230",
+    "GFA_code1": "152230",
+    "GFA_id": "152230",
+    "display_name": "Kursaal, zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.98001561543402",
+    "lat": "43.3235177406445",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152230"
+},
+{
+    "boundingbox": [
+        "43.3117303466899",
+        "-1.9792276926523",
+        "-1.97806814337185",
+        "43.3113120193562"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152239",
+    "GFA_code1": "152239",
+    "GFA_id": "152239",
+    "display_name": "Mundaiz zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.97865024482949",
+    "lat": "43.3115205627325",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152239"
+},
+{
+    "boundingbox": [
+        "43.1979977149668",
+        "-2.05062015320371",
+        "-2.05032646078926",
+        "43.1968035951741"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152240",
+    "GFA_code1": "152240",
+    "GFA_id": "152240",
+    "display_name": "Antzibako zubia",
+    "type": "bridge",
+    "city": "Aduna,Villabona",
+    "lon": "-2.05047775646335",
+    "lat": "43.197402687972",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152240"
+},
+{
+    "boundingbox": [
+        "43.1960754758287",
+        "-2.05627586552324",
+        "-2.05602648667879",
+        "43.1958645056539"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152241",
+    "GFA_code1": "152241",
+    "GFA_id": "152241",
+    "display_name": "Zubiaurretxu zubia",
+    "type": "bridge",
+    "city": "Aduna,Zizurkil",
+    "lon": "-2.05614919007619",
+    "lat": "43.1959728500689",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152241"
+},
+{
+    "boundingbox": [
+        "43.2536666300639",
+        "-2.23492725188293",
+        "-2.2343590636782",
+        "43.2532268229921"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152242",
+    "GFA_code1": "152242",
+    "GFA_id": "152242",
+    "display_name": "Auspagindegiko zubia",
+    "type": "bridge",
+    "city": "Aizarnazabal,Zestoa",
+    "lon": "-2.23464402679615",
+    "lat": "43.2534504560903",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152242"
+},
+{
+    "boundingbox": [
+        "43.2526227623057",
+        "-2.23530550538847",
+        "-2.23508711479941",
+        "43.2524302871454"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152243",
+    "GFA_code1": "152243",
+    "GFA_id": "152243",
+    "display_name": "Altzolarats zubia",
+    "type": "bridge",
+    "city": "Zestoa",
+    "lon": "-2.23519763939773",
+    "lat": "43.2525266808874",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152243"
+},
+{
+    "boundingbox": [
+        "43.100165703703",
+        "-2.09841531249269",
+        "-2.0982405584722",
+        "43.0998361052721"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152244",
+    "GFA_code1": "152244",
+    "GFA_id": "152244",
+    "display_name": "Zubizaharra zubia",
+    "type": "bridge",
+    "city": "Alegia",
+    "lon": "-2.09832443289995",
+    "lat": "43.099997888203",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152244"
+},
+{
+    "boundingbox": [
+        "43.0522175489094",
+        "-2.08893683927371",
+        "-2.08879692943702",
+        "43.0521688317112"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152245",
+    "GFA_code1": "152245",
+    "GFA_id": "152245",
+    "display_name": "Aranzasti zubia",
+    "type": "bridge",
+    "city": "Amezketa",
+    "lon": "-2.08887034364106",
+    "lat": "43.0521970701821",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152245"
+},
+{
+    "boundingbox": [
+        "43.0975469015383",
+        "-2.37976487129075",
+        "-2.37960640796327",
+        "43.0974408767868"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152247",
+    "GFA_code1": "152247",
+    "GFA_id": "152247",
+    "display_name": "Ondarre zubia",
+    "type": "bridge",
+    "city": "Antzuola",
+    "lon": "-2.37968386983673",
+    "lat": "43.0974927089577",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152247"
+},
+{
+    "boundingbox": [
+        "43.1211186303778",
+        "-2.41638316224312",
+        "-2.41612501857177",
+        "43.1208320668786"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152248",
+    "GFA_code1": "152248",
+    "GFA_id": "152248",
+    "display_name": "Zubietako zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.41625129774702",
+    "lat": "43.1209717325022",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152248"
+},
+{
+    "boundingbox": [
+        "43.1183233831069",
+        "-2.4157558037748",
+        "-2.41526005233202",
+        "43.1181240233868"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152249",
+    "GFA_code1": "152249",
+    "GFA_id": "152249",
+    "display_name": "Oxirondoko zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.41550303321714",
+    "lat": "43.1182214272863",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152249"
+},
+{
+    "boundingbox": [
+        "43.0690127857392",
+        "-2.52093142729179",
+        "-2.52079960941769",
+        "43.0688865472034"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152253",
+    "GFA_code1": "152253",
+    "GFA_id": "152253",
+    "display_name": "Akiso zubia",
+    "type": "bridge",
+    "city": "Arrasate",
+    "lon": "-2.52086302127979",
+    "lat": "43.0689499198799",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152253"
+},
+{
+    "boundingbox": [
+        "43.067062944977",
+        "-2.5148872833494",
+        "-2.51466159693847",
+        "43.0668949292596"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152254",
+    "GFA_code1": "152254",
+    "GFA_id": "152254",
+    "display_name": "Urdaixenako zubia",
+    "type": "bridge",
+    "city": "Arrasate",
+    "lon": "-2.51477421658583",
+    "lat": "43.0669791933156",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152254"
+},
+{
+    "boundingbox": [
+        "43.058156547802",
+        "-2.49363061790661",
+        "-2.49345113183539",
+        "43.0579970073479"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152255",
+    "GFA_code1": "152255",
+    "GFA_id": "152255",
+    "display_name": "Intxausti zubia",
+    "type": "bridge",
+    "city": "Arrasate",
+    "lon": "-2.49353820556141",
+    "lat": "43.0580803227604",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152255"
+},
+{
+    "boundingbox": [
+        "43.0695386361806",
+        "-2.47564430038342",
+        "-2.47528716716493",
+        "43.0692779361224"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152259",
+    "GFA_code1": "152259",
+    "GFA_id": "152259",
+    "display_name": "Zigarrola zubia",
+    "type": "bridge",
+    "city": "Arrasate",
+    "lon": "-2.47546339451147",
+    "lat": "43.0694081936178",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152259"
+},
+{
+    "boundingbox": [
+        "43.2485858271393",
+        "-1.95232720709055",
+        "-1.95176970281418",
+        "43.2483563376207"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152270",
+    "GFA_code1": "152270",
+    "GFA_id": "152270",
+    "display_name": "Fagollagako zubia",
+    "type": "bridge",
+    "city": "Hernani",
+    "lon": "-1.95204979168089",
+    "lat": "43.2484731479979",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152270"
+},
+{
+    "boundingbox": [
+        "43.2230095395713",
+        "-1.92973639534614",
+        "-1.92954968238724",
+        "43.2229613824616"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152271",
+    "GFA_code1": "152271",
+    "GFA_id": "152271",
+    "display_name": "Olazarko zubia",
+    "type": "bridge",
+    "city": "Urnieta",
+    "lon": "-1.92964550076428",
+    "lat": "43.2229897275252",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152271"
+},
+{
+    "boundingbox": [
+        "43.2372209941178",
+        "-1.93494666112406",
+        "-1.93455238678113",
+        "43.2368112477229"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152272",
+    "GFA_code1": "152272",
+    "GFA_id": "152272",
+    "display_name": "Pikoaga zubia",
+    "type": "bridge",
+    "city": "Hernani",
+    "lon": "-1.93474520415864",
+    "lat": "43.2370125154615",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152272"
+},
+{
+    "boundingbox": [
+        "43.3437092686584",
+        "-1.81795687124277",
+        "-1.81772875123453",
+        "43.3435705507863"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152274",
+    "GFA_code1": "152274",
+    "GFA_id": "152274",
+    "display_name": "Zubiaundi zubia",
+    "type": "bridge",
+    "city": "Hondarribia",
+    "lon": "-1.81784747883297",
+    "lat": "43.3436391687855",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152274"
+},
+{
+    "boundingbox": [
+        "43.3507999614691",
+        "-1.79944801752073",
+        "-1.79874442404767",
+        "43.3503817857665"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152279",
+    "GFA_code1": "152279",
+    "GFA_id": "152279",
+    "display_name": "Amute zubia",
+    "type": "bridge",
+    "city": "Hondarribia",
+    "lon": "-1.79909308614546",
+    "lat": "43.3505932764393",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152279"
+},
+{
+    "boundingbox": [
+        "43.1318306401524",
+        "-2.0627203739572",
+        "-2.06251115832635",
+        "43.1317023187366"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152280",
+    "GFA_code1": "152280",
+    "GFA_id": "152280",
+    "display_name": "Zubitxo zubia",
+    "type": "bridge",
+    "city": "Ibarra",
+    "lon": "-2.06262069130457",
+    "lat": "43.1317681474581",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152280"
+},
+{
+    "boundingbox": [
+        "43.134551996078",
+        "-2.05798001419424",
+        "-2.05766538771372",
+        "43.1344102100218"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152281",
+    "GFA_code1": "152281",
+    "GFA_id": "152281",
+    "display_name": "Azkue zubia",
+    "type": "bridge",
+    "city": "Belauntza,Ibarra",
+    "lon": "-2.05782087764391",
+    "lat": "43.1344841911908",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152281"
+},
+{
+    "boundingbox": [
+        "43.0083553359878",
+        "-2.23539503057493",
+        "-2.23516580820645",
+        "43.0081929113532"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152282",
+    "GFA_code1": "152282",
+    "GFA_id": "152282",
+    "display_name": "Larrastegi zubia",
+    "type": "bridge",
+    "city": "Idiazabal",
+    "lon": "-2.23527800199649",
+    "lat": "43.0082711809404",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152282"
+},
+{
+    "boundingbox": [
+        "43.007282401854",
+        "-2.23528820482076",
+        "-2.23513543284868",
+        "43.0072103431439"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152283",
+    "GFA_code1": "152283",
+    "GFA_id": "152283",
+    "display_name": "Intsausti zubia",
+    "type": "bridge",
+    "city": "Idiazabal",
+    "lon": "-2.23521712192912",
+    "lat": "43.0072442017297",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152283"
+},
+{
+    "boundingbox": [
+        "43.2944623552687",
+        "-1.7297339948753",
+        "-1.72901948633801",
+        "43.2940715018754"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152286",
+    "GFA_code1": "152286",
+    "GFA_id": "152286",
+    "display_name": "Endarlatsa zubia",
+    "type": "bridge",
+    "city": "Irun",
+    "lon": "-1.72938075509758",
+    "lat": "43.2942644929464",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152286"
+},
+{
+    "boundingbox": [
+        "43.3499676069207",
+        "-1.78541639430419",
+        "-1.78391059436803",
+        "43.3487995037583"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152288",
+    "GFA_code1": "152288",
+    "GFA_id": "152288",
+    "display_name": "Santiago zubia",
+    "type": "bridge",
+    "city": "Irun",
+    "lon": "-1.78466829289612",
+    "lat": "43.3493873696823",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152288"
+},
+{
+    "boundingbox": [
+        "43.0692985437336",
+        "-2.16339356391088",
+        "-2.16298171912486",
+        "43.0690475860129"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152289",
+    "GFA_code1": "152289",
+    "GFA_id": "152289",
+    "display_name": "Itsasondo zubia",
+    "type": "bridge",
+    "city": "Itsasondo",
+    "lon": "-2.1631852052951",
+    "lat": "43.0691716064456",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152289"
+},
+{
+    "boundingbox": [
+        "43.2764898272093",
+        "-1.95635519175425",
+        "-1.95563680834671",
+        "43.2762619664846"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152291",
+    "GFA_code1": "152291",
+    "GFA_id": "152291",
+    "display_name": "Ergobia zubia",
+    "type": "bridge",
+    "city": "Astigarraga",
+    "lon": "-1.95599529405505",
+    "lat": "43.2763784108702",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152291"
+},
+{
+    "boundingbox": [
+        "43.2783333629026",
+        "-1.96613470977124",
+        "-1.96344019801085",
+        "43.2770573924"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152292",
+    "GFA_code1": "152292",
+    "GFA_id": "152292",
+    "display_name": "Muntogorri zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.96478463968982",
+    "lat": "43.2776919243991",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152292"
+},
+{
+    "boundingbox": [
+        "43.2777631556252",
+        "-1.95982913857461",
+        "-1.95922911180755",
+        "43.276448256667"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152293",
+    "GFA_code1": "152293",
+    "GFA_id": "152293",
+    "display_name": "Eizmendi zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.95953222391308",
+    "lat": "43.2771039913654",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152293"
+},
+{
+    "boundingbox": [
+        "43.2782715506438",
+        "-1.99418027691713",
+        "-1.99292188225325",
+        "43.2778341685413"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152294",
+    "GFA_code1": "152294",
+    "GFA_id": "152294",
+    "display_name": "Zabalegi zubia",
+    "type": "bridge",
+    "city": "Hernani",
+    "lon": "-1.99355564764076",
+    "lat": "43.2780567617009",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152294"
+},
+{
+    "boundingbox": [
+        "43.2760150149481",
+        "-2.00778592000344",
+        "-2.0061801271652",
+        "43.2756047756682"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152295",
+    "GFA_code1": "152295",
+    "GFA_id": "152295",
+    "display_name": "Errekalde zubia",
+    "type": "bridge",
+    "city": "Hernani,Lasarte-Oria",
+    "lon": "-2.00698874961439",
+    "lat": "43.2758059722311",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152295"
+},
+{
+    "boundingbox": [
+        "43.2792607767219",
+        "-2.0186021925223",
+        "-2.0135931510391",
+        "43.2773071828696"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152296",
+    "GFA_code1": "152296",
+    "GFA_id": "152296",
+    "display_name": "Hirubide zubia",
+    "type": "bridge",
+    "city": "Lasarte-Oria,Usurbil",
+    "lon": "-2.01609317142245",
+    "lat": "43.2782798678758",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152296"
+},
+{
+    "boundingbox": [
+        "43.2807831043676",
+        "-2.02297713471589",
+        "-2.02074039518488",
+        "43.2796420445491"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152297",
+    "GFA_code1": "152297",
+    "GFA_id": "152297",
+    "display_name": "Asteasuain zubia",
+    "type": "bridge",
+    "city": "Usurbil",
+    "lon": "-2.02185466769797",
+    "lat": "43.2802112388935",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152297"
+},
+{
+    "boundingbox": [
+        "43.2887241903197",
+        "-1.95614829591894",
+        "-1.94416681874861",
+        "43.2849534246945"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152300",
+    "GFA_code1": "152300",
+    "GFA_id": "152300",
+    "display_name": "Urumea zubia",
+    "type": "bridge",
+    "city": "Astigarraga,Donostia",
+    "lon": "-1.95015868292284",
+    "lat": "43.2868423044723",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152300"
+},
+{
+    "boundingbox": [
+        "43.3145351354544",
+        "-1.96815280204188",
+        "-1.96796102200912",
+        "43.31389378165"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152303",
+    "GFA_code1": "152303",
+    "GFA_id": "152303",
+    "display_name": "Astiñeneko zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.96806157985368",
+    "lat": "43.3142169112068",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152303"
+},
+{
+    "boundingbox": [
+        "43.3079482709452",
+        "-1.96595861272912",
+        "-1.96526142978358",
+        "43.3077996333906"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152304",
+    "GFA_code1": "152304",
+    "GFA_id": "152304",
+    "display_name": "Urdinzuko zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.96560420431162",
+    "lat": "43.3078735461976",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152304"
+},
+{
+    "boundingbox": [
+        "43.3059722328781",
+        "-1.96206606398633",
+        "-1.96190970972619",
+        "43.3055993112679"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152305",
+    "GFA_code1": "152305",
+    "GFA_id": "152305",
+    "display_name": "Espartxoko zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.9619899306645",
+    "lat": "43.3057877711869",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152305"
+},
+{
+    "boundingbox": [
+        "43.3021999901828",
+        "-1.95411609947472",
+        "-1.95324986385373",
+        "43.3018290226197"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152306",
+    "GFA_code1": "152306",
+    "GFA_id": "152306",
+    "display_name": "Lugañeneko zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.95368272124093",
+    "lat": "43.302011217693",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152306"
+},
+{
+    "boundingbox": [
+        "42.9602958569784",
+        "-2.16263307125437",
+        "-2.16257429236275",
+        "42.9601737924185"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152307",
+    "GFA_code1": "152307",
+    "GFA_id": "152307",
+    "display_name": "Mandaibietako zubia",
+    "type": "bridge",
+    "city": "Ataun",
+    "lon": "-2.16260332687599",
+    "lat": "42.9602338765713",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152307"
+},
+{
+    "boundingbox": [
+        "43.0173428032147",
+        "-2.1780636844879",
+        "-2.17781375137906",
+        "43.0172692518825"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152308",
+    "GFA_code1": "152308",
+    "GFA_id": "152308",
+    "display_name": "Otadi zubia",
+    "type": "bridge",
+    "city": "Ataun",
+    "lon": "-2.1779414108924",
+    "lat": "43.0173019496843",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152308"
+},
+{
+    "boundingbox": [
+        "43.1490801374241",
+        "-2.34342854449977",
+        "-2.34318284149115",
+        "43.1489412405571"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152309",
+    "GFA_code1": "152309",
+    "GFA_id": "152309",
+    "display_name": "Igarango zubia",
+    "type": "bridge",
+    "city": "Azkoitia",
+    "lon": "-2.34330098870088",
+    "lat": "43.1490135886183",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152309"
+},
+{
+    "boundingbox": [
+        "43.1761111747516",
+        "-2.31457139718729",
+        "-2.31443179117742",
+        "43.1759158613092"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152310",
+    "GFA_code1": "152310",
+    "GFA_id": "152310",
+    "display_name": "Jausoro zubia",
+    "type": "bridge",
+    "city": "Azkoitia",
+    "lon": "-2.31450382627661",
+    "lat": "43.1760121365848",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152310"
+},
+{
+    "boundingbox": [
+        "43.1716829018494",
+        "-2.3233457622458",
+        "-2.32308408636831",
+        "43.1714517350562"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152311",
+    "GFA_code1": "152311",
+    "GFA_id": "152311",
+    "display_name": "Isasaga zubia",
+    "type": "bridge",
+    "city": "Azkoitia",
+    "lon": "-2.32321475343289",
+    "lat": "43.1715706150619",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152311"
+},
+{
+    "boundingbox": [
+        "43.1847245245602",
+        "-2.26353380323436",
+        "-2.26306240377971",
+        "43.1844232906842"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152313",
+    "GFA_code1": "152313",
+    "GFA_id": "152313",
+    "display_name": "Enparan zubia",
+    "type": "bridge",
+    "city": "Azpeitia",
+    "lon": "-2.26330323466262",
+    "lat": "43.1845725937825",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152313"
+},
+{
+    "boundingbox": [
+        "43.1771519074722",
+        "-2.25767788443233",
+        "-2.2573632999947",
+        "43.1770485944581"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152314",
+    "GFA_code1": "152314",
+    "GFA_id": "152314",
+    "display_name": "Landeta zubia",
+    "type": "bridge",
+    "city": "Azpeitia",
+    "lon": "-2.25752409714128",
+    "lat": "43.1770973058469",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152314"
+},
+{
+    "boundingbox": [
+        "43.1370436420696",
+        "-2.23315426607201",
+        "-2.23297045806724",
+        "43.1368947547887"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152315",
+    "GFA_code1": "152315",
+    "GFA_id": "152315",
+    "display_name": "Nuarbe zubia",
+    "type": "bridge",
+    "city": "Azpeitia,Beizama",
+    "lon": "-2.23306126616621",
+    "lat": "43.1369726773338",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152315"
+},
+{
+    "boundingbox": [
+        "43.0478797682915",
+        "-2.21820183883548",
+        "-2.21803814001848",
+        "43.0477590847874"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152316",
+    "GFA_code1": "152316",
+    "GFA_id": "152316",
+    "display_name": "Iburuz zubia",
+    "type": "bridge",
+    "city": "Beasain",
+    "lon": "-2.21812541734396",
+    "lat": "43.0478222551882",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152316"
+},
+{
+    "boundingbox": [
+        "43.1040600497669",
+        "-1.94631392925922",
+        "-1.94413794109846",
+        "43.1011508660039"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152320",
+    "GFA_code1": "152320",
+    "GFA_id": "152320",
+    "display_name": "Leitzaran zubia",
+    "type": "bridge",
+    "city": "Berastegi",
+    "lon": "-1.94522631225312",
+    "lat": "43.1026061087045",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152320"
+},
+{
+    "boundingbox": [
+        "43.1085798463981",
+        "-1.9541686999079",
+        "-1.95067572935274",
+        "43.1060508278407"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152321",
+    "GFA_code1": "152321",
+    "GFA_id": "152321",
+    "display_name": "Aintzerga zubia",
+    "type": "bridge",
+    "city": "Berastegi",
+    "lon": "-1.95242104410929",
+    "lat": "43.1073186955362",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152321"
+},
+{
+    "boundingbox": [
+        "43.1486806433756",
+        "-2.00098428413131",
+        "-1.99579846854896",
+        "43.1464433917139"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152323",
+    "GFA_code1": "152323",
+    "GFA_id": "152323",
+    "display_name": "Altzu zubia",
+    "type": "bridge",
+    "city": "Elduain",
+    "lon": "-1.9983927483781",
+    "lat": "43.1475585770403",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152323"
+},
+{
+    "boundingbox": [
+        "43.097861878392",
+        "-1.94801232323737",
+        "-1.94730965360536",
+        "43.0977084474631"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152336",
+    "GFA_code1": "152336",
+    "GFA_id": "152336",
+    "display_name": "Urto zubia",
+    "type": "bridge",
+    "city": "Berastegi",
+    "lon": "-1.94765611086773",
+    "lat": "43.0977838840295",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152336"
+},
+{
+    "boundingbox": [
+        "43.1393303967885",
+        "-1.95222220858806",
+        "-1.95175663551236",
+        "43.1392260150699"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152343",
+    "GFA_code1": "152343",
+    "GFA_id": "152343",
+    "display_name": "Ameraun zubia",
+    "type": "bridge",
+    "city": "Berastegi",
+    "lon": "-1.95198614586667",
+    "lat": "43.1392817334833",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152343"
+},
+{
+    "boundingbox": [
+        "43.082277798665",
+        "-2.44700752040296",
+        "-2.44651485183038",
+        "43.0819819716186"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152344",
+    "GFA_code1": "152344",
+    "GFA_id": "152344",
+    "display_name": "Elorregi zubia",
+    "type": "bridge",
+    "city": "Arrasate,Bergara,Oñati",
+    "lon": "-2.44675533171856",
+    "lat": "43.0821320633018",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152344"
+},
+{
+    "boundingbox": [
+        "43.1074096602904",
+        "-2.41920727393945",
+        "-2.41870549595314",
+        "43.1072382868735"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152345",
+    "GFA_code1": "152345",
+    "GFA_id": "152345",
+    "display_name": "Ozaeta zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.41896190489458",
+    "lat": "43.107325127491",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152345"
+},
+{
+    "boundingbox": [
+        "43.1231557357861",
+        "-2.42614333498747",
+        "-2.42542060902591",
+        "43.1229767105608"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152347",
+    "GFA_code1": "152347",
+    "GFA_id": "152347",
+    "display_name": "Ondartzako Zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.42578322198119",
+    "lat": "43.1230640688391",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152347"
+},
+{
+    "boundingbox": [
+        "43.1277761543546",
+        "-2.42322949710359",
+        "-2.42295453479616",
+        "43.1275309395587"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152350",
+    "GFA_code1": "152350",
+    "GFA_id": "152350",
+    "display_name": "Zubiateko zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.42309707095859",
+    "lat": "43.1276520416959",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152350"
+},
+{
+    "boundingbox": [
+        "43.1311057098497",
+        "-2.4220341077359",
+        "-2.42148204861217",
+        "43.1310455644987"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152351",
+    "GFA_code1": "152351",
+    "GFA_id": "152351",
+    "display_name": "Zubiberri zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.42176163895172",
+    "lat": "43.1310761507662",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152351"
+},
+{
+    "boundingbox": [
+        "43.1413659389415",
+        "-2.41634468335499",
+        "-2.41592918963248",
+        "43.1411825689805"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152352",
+    "GFA_code1": "152352",
+    "GFA_id": "152352",
+    "display_name": "Lesarriboluko zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.41613192982258",
+    "lat": "43.1412770651188",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152352"
+},
+{
+    "boundingbox": [
+        "43.1434541347477",
+        "-2.41471867459465",
+        "-2.41424610529016",
+        "43.1431931229024"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152353",
+    "GFA_code1": "152353",
+    "GFA_id": "152353",
+    "display_name": "Mekaloldeko zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.41447693646756",
+    "lat": "43.1433217101376",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152353"
+},
+{
+    "boundingbox": [
+        "43.1115714042547",
+        "-2.41409324644802",
+        "-2.41350590309632",
+        "43.1114663799712"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152355",
+    "GFA_code1": "152355",
+    "GFA_id": "152355",
+    "display_name": "Gabiriako zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.41379690208457",
+    "lat": "43.1115220755261",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152355"
+},
+{
+    "boundingbox": [
+        "43.0944635777143",
+        "-2.43317627238456",
+        "-2.43285275826004",
+        "43.0943421303385"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152356",
+    "GFA_code1": "152356",
+    "GFA_id": "152356",
+    "display_name": "Olako zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.43301809072537",
+    "lat": "43.0944015661412",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152356"
+},
+{
+    "boundingbox": [
+        "43.0877089252703",
+        "-2.44138693659325",
+        "-2.44111668502248",
+        "43.0874001148663"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152357",
+    "GFA_code1": "152357",
+    "GFA_id": "152357",
+    "display_name": "Urietako zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.44125151505586",
+    "lat": "43.0875533030347",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152357"
+},
+{
+    "boundingbox": [
+        "43.1320258475287",
+        "-2.44387997475651",
+        "-2.44376516998553",
+        "43.1319059856853"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152358",
+    "GFA_code1": "152358",
+    "GFA_id": "152358",
+    "display_name": "Narbaizaboluko zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.44382272950887",
+    "lat": "43.1319689340105",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152358"
+},
+{
+    "boundingbox": [
+        "43.1439441985117",
+        "-2.02249534725897",
+        "-2.02242897112732",
+        "43.1438111171701"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152361",
+    "GFA_code1": "152361",
+    "GFA_id": "152361",
+    "display_name": "Lapatza zubia",
+    "type": "bridge",
+    "city": "Berrobi",
+    "lon": "-2.02245717753997",
+    "lat": "43.1438766580733",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152361"
+},
+{
+    "boundingbox": [
+        "43.1451735860527",
+        "-2.0320113005742",
+        "-2.03188060665391",
+        "43.1451037984299"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152362",
+    "GFA_code1": "152362",
+    "GFA_id": "152362",
+    "display_name": "Errotaberri zubia",
+    "type": "bridge",
+    "city": "Berrobi",
+    "lon": "-2.03194309937665",
+    "lat": "43.1451369396417",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152362"
+},
+{
+    "boundingbox": [
+        "43.1893923821704",
+        "-2.05393071453338",
+        "-2.05341083095846",
+        "43.1892842568568"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152370",
+    "GFA_code1": "152370",
+    "GFA_id": "152370",
+    "display_name": "Zubimusu zubia",
+    "type": "bridge",
+    "city": "Villabona,Zizurkil",
+    "lon": "-2.05366715261035",
+    "lat": "43.1893338856511",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152370"
+},
+{
+    "boundingbox": [
+        "43.2929719463182",
+        "-2.35744489610942",
+        "-2.35610453638776",
+        "43.29246183201"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152371",
+    "GFA_code1": "152371",
+    "GFA_id": "152371",
+    "display_name": "Deba zubia",
+    "type": "bridge",
+    "city": "Deba,Mutriku",
+    "lon": "-2.3567714852276",
+    "lat": "43.292715162027",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152371"
+},
+{
+    "boundingbox": [
+        "43.268220539978",
+        "-2.37323614345013",
+        "-2.37243445919675",
+        "43.2680805500005"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152372",
+    "GFA_code1": "152372",
+    "GFA_id": "152372",
+    "display_name": "Sasiola zubia",
+    "type": "bridge",
+    "city": "Deba,Mendaro,Mutriku",
+    "lon": "-2.37283980747334",
+    "lat": "43.2681497599712",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152372"
+},
+{
+    "boundingbox": [
+        "43.2982146066859",
+        "-1.95561216320427",
+        "-1.95490363557577",
+        "43.2976822186041"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152374",
+    "GFA_code1": "152374",
+    "GFA_id": "152374",
+    "display_name": "Martutene zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.95525647798984",
+    "lat": "43.2979465542308",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152374"
+},
+{
+    "boundingbox": [
+        "43.1753523327546",
+        "-1.98304160727523",
+        "-1.98276967411046",
+        "43.1750894863233"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152377",
+    "GFA_code1": "152377",
+    "GFA_id": "152377",
+    "display_name": "Inturia zubia",
+    "type": "bridge",
+    "city": "Elduain",
+    "lon": "-1.98290577860625",
+    "lat": "43.1752195857922",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152377"
+},
+{
+    "boundingbox": [
+        "43.1693955844863",
+        "-1.96017310970294",
+        "-1.95984644545164",
+        "43.1692494506358"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152378",
+    "GFA_code1": "152378",
+    "GFA_id": "152378",
+    "display_name": "Zubizaharra zubia",
+    "type": "bridge",
+    "city": "Elduain",
+    "lon": "-1.96001047674061",
+    "lat": "43.1693227595004",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152378"
+},
+{
+    "boundingbox": [
+        "43.1541572811073",
+        "-1.9639182392399",
+        "-1.96381286967527",
+        "43.1539607044797"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152380",
+    "GFA_code1": "152380",
+    "GFA_id": "152380",
+    "display_name": "Oizingo zubia",
+    "type": "bridge",
+    "city": "Berastegi,Elduain",
+    "lon": "-1.96386077719462",
+    "lat": "43.1540586460776",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152380"
+},
+{
+    "boundingbox": [
+        "43.2150091454503",
+        "-2.4177529425",
+        "-2.41725554568695",
+        "43.2146929187655"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152381",
+    "GFA_code1": "152381",
+    "GFA_id": "152381",
+    "display_name": "Txantxaku zubia",
+    "type": "bridge",
+    "city": "Elgoibar",
+    "lon": "-2.41749880816063",
+    "lat": "43.2148530757747",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152381"
+},
+{
+    "boundingbox": [
+        "43.2362063115952",
+        "-2.40078347982215",
+        "-2.40045009207257",
+        "43.2359368154277"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152382",
+    "GFA_code1": "152382",
+    "GFA_id": "152382",
+    "display_name": "Altzola zubia",
+    "type": "bridge",
+    "city": "Elgoibar",
+    "lon": "-2.4006210184458",
+    "lat": "43.2360710207589",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152382"
+},
+{
+    "boundingbox": [
+        "43.1656633388789",
+        "-2.18051424188255",
+        "-2.18017836616436",
+        "43.1655661557417"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152383",
+    "GFA_code1": "152383",
+    "GFA_id": "152383",
+    "display_name": "Rekondo zubia",
+    "type": "bridge",
+    "city": "Errezil",
+    "lon": "-2.18034705701326",
+    "lat": "43.1656116191651",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152383"
+},
+{
+    "boundingbox": [
+        "43.0754741531544",
+        "-2.29158473342014",
+        "-2.2914315383905",
+        "43.0753854191913"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152385",
+    "GFA_code1": "152385",
+    "GFA_id": "152385",
+    "display_name": "Sagastizabal zubia",
+    "type": "bridge",
+    "city": "Ezkio-Itsaso",
+    "lon": "-2.29151320789686",
+    "lat": "43.0754320238059",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152385"
+},
+{
+    "boundingbox": [
+        "43.0395268550018",
+        "-2.27935695047512",
+        "-2.27923186065627",
+        "43.0394734859224"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152386",
+    "GFA_code1": "152386",
+    "GFA_id": "152386",
+    "display_name": "Landeta zubia",
+    "type": "bridge",
+    "city": "Gabiria",
+    "lon": "-2.27929430812999",
+    "lat": "43.0394980086702",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152386"
+},
+{
+    "boundingbox": [
+        "43.0280985747995",
+        "-2.33737236229873",
+        "-2.33726342317642",
+        "43.0279770119659"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152388",
+    "GFA_code1": "152388",
+    "GFA_id": "152388",
+    "display_name": "Elorregi zubia",
+    "type": "bridge",
+    "city": "Legazpi",
+    "lon": "-2.33731357489774",
+    "lat": "43.0280341263191",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152388"
+},
+{
+    "boundingbox": [
+        "43.0352335066904",
+        "-2.33949122976036",
+        "-2.33932175242039",
+        "43.0351102557748"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152390",
+    "GFA_code1": "152390",
+    "GFA_id": "152390",
+    "display_name": "Mirandaola zubia",
+    "type": "bridge",
+    "city": "Legazpi",
+    "lon": "-2.33940958886671",
+    "lat": "43.0351691976453",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152390"
+},
+{
+    "boundingbox": [
+        "43.0847755595499",
+        "-2.14697909135955",
+        "-2.14659460748475",
+        "43.0845679378239"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152392",
+    "GFA_code1": "152392",
+    "GFA_id": "152392",
+    "display_name": "Torre zubia",
+    "type": "bridge",
+    "city": "Legorreta",
+    "lon": "-2.14678196416276",
+    "lat": "43.0846739802945",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152392"
+},
+{
+    "boundingbox": [
+        "43.0844681258183",
+        "-2.15375096909011",
+        "-2.15321565112841",
+        "43.0842690766429"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152393",
+    "GFA_code1": "152393",
+    "GFA_id": "152393",
+    "display_name": "Zubizarra zubia",
+    "type": "bridge",
+    "city": "Legorreta",
+    "lon": "-2.15348169714675",
+    "lat": "43.0843725490493",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152393"
+},
+{
+    "boundingbox": [
+        "43.0843019993422",
+        "-2.12612531539173",
+        "-2.12599184444372",
+        "43.0838290337255"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A152394",
+    "GFA_code1": "152394",
+    "GFA_id": "152394",
+    "display_name": "Baliarraingo zubia",
+    "type": "bridge",
+    "city": "Ikaztegieta,Legorreta",
+    "lon": "-2.12605271692422",
+    "lat": "43.0840672934602",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152394"
+},
+{
+    "boundingbox": [
+        "43.0885018110397",
+        "-2.03249781670829",
+        "-2.03238748919653",
+        "43.0884120904067"
+    ],
+    "postcode": "20490",
+    "bis": "E",
+    "door_number": "S/N",
+    "importance": 2.4314523,
+    "b5m_id": "D_A35004",
+    "GFA_code1": "82923",
+    "GFA_code2": "35004",
+    "GFA_id": "82923",
+    "display_name": "Iruraingo zubia, borda",
+    "type": "building",
+    "city": "Lizartza",
+    "street": "Errepide orokorra",
+    "lon": "-2.03244310555321",
+    "lat": "43.0884558307555",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/D_A35004"
+},
+{
+    "boundingbox": [
+        "43.0900618358183",
+        "-2.31154079239924",
+        "-2.31141157372204",
+        "43.0899427498215"
+    ],
+    "postcode": "20700",
+    "door_number": "8",
+    "importance": 2.4314523,
+    "b5m_id": "D_A67051",
+    "GFA_code1": "75427",
+    "GFA_code2": "67051",
+    "GFA_id": "75427",
+    "display_name": "Zubia, etxea",
+    "type": "building",
+    "city": "Zumarraga",
+    "street": "Beloki hiribidea",
+    "lon": "-2.31147063451985",
+    "lat": "43.0900067339881",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/D_A67051"
+},
+{
+    "boundingbox": [
+        "43.2357252811242",
+        "-2.0022631188591",
+        "-2.00202722625788",
+        "43.2355694644078"
+    ],
+    "postcode": "20130",
+    "door_number": "28",
+    "importance": 2.4314523,
+    "b5m_id": "D_A60147",
+    "GFA_code1": "86205",
+    "GFA_code2": "60147",
+    "GFA_id": "86205",
+    "display_name": "Zubia, etxea",
+    "type": "building",
+    "city": "Urnieta",
+    "street": "Ergoien auzoa",
+    "lon": "-2.002148299146",
+    "lat": "43.2356483482842",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/D_A60147"
+},
+{
+    "boundingbox": [
+        "43.0607190519808",
+        "-2.5019311930815",
+        "-2.50187390621965",
+        "43.0606202951983"
+    ],
+    "importance": 2.4314523,
+    "b5m_id": "G_A165880",
+    "GFA_code1": "165880",
+    "GFA_id": "165880",
+    "display_name": "Uribe zubia",
+    "type": "bridge",
+    "city": "Arrasate",
+    "lon": "-2.50190467158538",
+    "lat": "43.0606654504922",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A165880"
+},
+{
+    "boundingbox": [
+        "42.9947110943107",
+        "-2.45037134516179",
+        "-2.44457177320953",
+        "42.9922873633666"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "Z_A116601",
+    "GFA_code1": "116601",
+    "GFA_code2": "416899",
+    "GFA_id": "116601",
+    "display_name": "Zubia, herrigunea",
+    "type": "urban centre",
+    "city": "Oñati",
+    "lon": "-2.44747744658247",
+    "lat": "42.9934993227137",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/Z_A116601"
+},
+{
+    "boundingbox": [
+        "43.3146317418454",
+        "-1.96808945186746",
+        "-1.96801687229199",
+        "43.3138646747375"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "K_069_2595",
+    "GFA_code1": "069",
+    "GFA_code2": "2595",
+    "GFA_id": "133040",
+    "display_name": "Astiñeneko zubia",
+    "type": "street",
+    "city": "Donostia",
+    "lon": "-1.96804864072718",
+    "lat": "43.3142528124812",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_069_2595"
+},
+{
+    "boundingbox": [
+        "43.3021495595278",
+        "-1.95409662037904",
+        "-1.9532642220676",
+        "43.3018874448608"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "K_069_1075",
+    "GFA_code1": "069",
+    "GFA_code2": "1075",
+    "GFA_id": "3215",
+    "display_name": "Lugañeneko zubia",
+    "type": "street",
+    "city": "Donostia",
+    "lon": "-1.95369412196336",
+    "lat": "43.3020653491213",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_069_1075"
+},
+{
+    "boundingbox": [
+        "43.307931439612",
+        "-1.96612160119918",
+        "-1.96315227704226",
+        "43.3076594507117"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "K_069_1135",
+    "GFA_code1": "069",
+    "GFA_code2": "1135",
+    "GFA_id": "3226",
+    "display_name": "Urdintzuko zubia",
+    "type": "street",
+    "city": "Donostia",
+    "lon": "-1.96407746979874",
+    "lat": "43.3077426692052",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_069_1135"
+},
+{
+    "boundingbox": [
+        "43.3060717809634",
+        "-1.961954287964",
+        "-1.96179363561512",
+        "43.3054137514301"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "K_069_1145",
+    "GFA_code1": "069",
+    "GFA_code2": "1145",
+    "GFA_id": "3228",
+    "display_name": "Espartxo zubia",
+    "type": "street",
+    "city": "Donostia",
+    "lon": "-1.96187974500425",
+    "lat": "43.3057417485251",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_069_1145"
+},
+{
+    "boundingbox": [
+        "43.311646999618",
+        "-1.9792652272261",
+        "-1.97794794408458",
+        "43.311441264354"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "K_069_1195",
+    "GFA_code1": "069",
+    "GFA_code2": "1195",
+    "GFA_id": "3238",
+    "display_name": "Mundaiz zubia",
+    "type": "street",
+    "city": "Donostia",
+    "lon": "-1.97893426860161",
+    "lat": "43.3114960852285",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_069_1195"
+},
+{
+    "boundingbox": [
+        "43.3237677108972",
+        "-1.9807800054684",
+        "-1.97923795537118",
+        "43.323138270549"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "K_069_1225",
+    "GFA_code1": "069",
+    "GFA_code2": "1225",
+    "GFA_id": "3244",
+    "display_name": "Zurriolako zubia",
+    "type": "street",
+    "city": "Donostia",
+    "lon": "-1.97996613827329",
+    "lat": "43.3235263038678",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_069_1225"
+},
+{
+    "boundingbox": [
+        "42.9933210021563",
+        "-2.44771388100513",
+        "-2.44734772721253",
+        "42.9931408624447"
+    ],
+    "postcode": "20567",
+    "door_number": "35",
+    "importance": 2.1178584,
+    "b5m_id": "D_A38684",
+    "GFA_code1": "71773",
+    "GFA_code2": "38684",
+    "GFA_id": "71773",
+    "display_name": "Zubia Lopena, baserria",
+    "type": "building",
+    "city": "Oñati",
+    "street": "Araotz auzoa",
+    "lon": "-2.4475289336695",
+    "lat": "42.9932294191169",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/D_A38684"
+},
+{
+    "boundingbox": [
+        "42.9939171059329",
+        "-2.44753483116609",
+        "-2.44721037652758",
+        "42.9936571333319"
+    ],
+    "postcode": "20567",
+    "door_number": "42",
+    "importance": 2.1178584,
+    "b5m_id": "D_A38691",
+    "GFA_code1": "71775",
+    "GFA_code2": "38691",
+    "GFA_id": "71775",
+    "display_name": "Zubia Erramuena, etxea",
+    "type": "building",
+    "city": "Oñati",
+    "street": "Araotz auzoa",
+    "lon": "-2.44737673018388",
+    "lat": "42.9937869987357",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/D_A38691"
+},
+{
+    "boundingbox": [
+        "43.1375606255024",
+        "-2.07215339985281",
+        "-2.07188032667233",
+        "43.1368354714827"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152417",
+    "GFA_code1": "152417",
+    "GFA_id": "152417",
+    "display_name": "Nafarroako zubia",
+    "type": "bridge",
+    "city": "Tolosa",
+    "lon": "-2.07201800413994",
+    "lat": "43.1371936026904",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152417"
+},
+{
+    "boundingbox": [
+        "43.1134033710534",
+        "-2.32511431800998",
+        "-2.32480143128178",
+        "43.1132698910702"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152420",
+    "GFA_code1": "152420",
+    "GFA_id": "152420",
+    "display_name": "Aitxu Errota zubia",
+    "type": "bridge",
+    "city": "Urretxu,Zumarraga",
+    "lon": "-2.32496302491981",
+    "lat": "43.1133377421331",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152420"
+},
+{
+    "boundingbox": [
+        "43.274916287549",
+        "-2.03465771674799",
+        "-2.03424419180303",
+        "43.2743145140555"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152421",
+    "GFA_code1": "152421",
+    "GFA_id": "152421",
+    "display_name": "Aliriko zubia",
+    "type": "bridge",
+    "city": "Usurbil",
+    "lon": "-2.03445270856644",
+    "lat": "43.2746183863815",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152421"
+},
+{
+    "boundingbox": [
+        "43.2877415907796",
+        "-2.23122486937942",
+        "-2.2308235048127",
+        "43.2873372676725"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152431",
+    "GFA_code1": "152431",
+    "GFA_id": "152431",
+    "display_name": "Oikia zubia",
+    "type": "bridge",
+    "city": "Zumaia",
+    "lon": "-2.23102429078909",
+    "lat": "43.2875356535611",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152431"
+},
+{
+    "boundingbox": [
+        "43.0476170190447",
+        "-2.20883719938074",
+        "-2.20852462394038",
+        "43.0473662750322"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152484",
+    "GFA_code1": "152484",
+    "GFA_id": "152484",
+    "display_name": "Igartza zubia",
+    "type": "bridge",
+    "city": "Beasain",
+    "lon": "-2.20867556740355",
+    "lat": "43.0474871527301",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152484"
+},
+{
+    "boundingbox": [
+        "43.2936821607107",
+        "-1.86577242215307",
+        "-1.86547671527968",
+        "43.2932996103288"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152496",
+    "GFA_code1": "152496",
+    "GFA_id": "152496",
+    "display_name": "Txokorrene zubia",
+    "type": "bridge",
+    "city": "Oiartzun",
+    "lon": "-1.86562641446991",
+    "lat": "43.2934908917507",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152496"
+},
+{
+    "boundingbox": [
+        "43.2667737994383",
+        "-2.05576636515413",
+        "-2.05476178884315",
+        "43.266257592815"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152502",
+    "GFA_code1": "152502",
+    "GFA_id": "152502",
+    "display_name": "Zorrotzeko zubia",
+    "type": "bridge",
+    "city": "Usurbil",
+    "lon": "-2.05526935731784",
+    "lat": "43.2665170014201",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152502"
+},
+{
+    "boundingbox": [
+        "43.3175389828998",
+        "-1.97895538607523",
+        "-1.97772018415332",
+        "43.3171822650123"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152231",
+    "GFA_code1": "152231",
+    "GFA_id": "152231",
+    "display_name": "Maria Cristina, zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.97834275955124",
+    "lat": "43.3173617415348",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152231"
+},
+{
+    "boundingbox": [
+        "43.3213596007596",
+        "-1.97897743286539",
+        "-1.97754784008725",
+        "43.3206102459743"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152232",
+    "GFA_code1": "152232",
+    "GFA_id": "152232",
+    "display_name": "Santa Katalina, zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.97825744879454",
+    "lat": "43.3209807883667",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152232"
+},
+{
+    "boundingbox": [
+        "43.2027956861256",
+        "-2.01242957152216",
+        "-2.0121158225069",
+        "43.2025070671347"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152246",
+    "GFA_code1": "152246",
+    "GFA_id": "152246",
+    "display_name": "Sorginen zubia",
+    "type": "bridge",
+    "city": "Andoain",
+    "lon": "-2.01227504917118",
+    "lat": "43.2026531227834",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152246"
+},
+{
+    "boundingbox": [
+        "43.0914902897366",
+        "-2.12524008152728",
+        "-2.12485240366904",
+        "43.0908707751778"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152284",
+    "GFA_code1": "152284",
+    "GFA_id": "152284",
+    "display_name": "Santiagoko zubia",
+    "type": "bridge",
+    "city": "Ikaztegieta",
+    "lon": "-2.12504233022584",
+    "lat": "43.0911824324283",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152284"
+},
+{
+    "boundingbox": [
+        "43.0853568836996",
+        "-2.12905476998876",
+        "-2.12862615153512",
+        "43.0851730062322"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152285",
+    "GFA_code1": "152285",
+    "GFA_id": "152285",
+    "display_name": "Olako zubizarra zubia",
+    "type": "bridge",
+    "city": "Ikaztegieta,Legorreta",
+    "lon": "-2.12883675866711",
+    "lat": "43.0852681627833",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152285"
+},
+{
+    "boundingbox": [
+        "43.1458931287736",
+        "-1.99471917119341",
+        "-1.99201879825352",
+        "43.145057674683"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152322",
+    "GFA_code1": "152322",
+    "GFA_id": "152322",
+    "display_name": "Santa Kruz zubia",
+    "type": "bridge",
+    "city": "Elduain",
+    "lon": "-1.99337237971385",
+    "lat": "43.1454794382761",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152322"
+},
+{
+    "boundingbox": [
+        "43.12572543276",
+        "-1.93607865674693",
+        "-1.93594192380052",
+        "43.1256007471598"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152341",
+    "GFA_code1": "152341",
+    "GFA_id": "152341",
+    "display_name": "Mustar 1 zubia",
+    "type": "bridge",
+    "city": "Berastegi",
+    "lon": "-1.93601568445641",
+    "lat": "43.1256631797624",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152341"
+},
+{
+    "boundingbox": [
+        "43.1270967781904",
+        "-1.93756885166741",
+        "-1.93719152033935",
+        "43.1267072320978"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152342",
+    "GFA_code1": "152342",
+    "GFA_id": "152342",
+    "display_name": "Mustar 2 zubia",
+    "type": "bridge",
+    "city": "Berastegi",
+    "lon": "-1.93738344398272",
+    "lat": "43.1269005420954",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152342"
+},
+{
+    "boundingbox": [
+        "43.1195542885115",
+        "-2.41486291952004",
+        "-2.41443886620146",
+        "43.1193475485191"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152346",
+    "GFA_code1": "152346",
+    "GFA_id": "152346",
+    "display_name": "Santa Marina zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.41465544292056",
+    "lat": "43.1194507618841",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152346"
+},
+{
+    "boundingbox": [
+        "43.1229510019278",
+        "-2.42611405711289",
+        "-2.42551865175837",
+        "43.1228479794721"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152348",
+    "GFA_code1": "152348",
+    "GFA_id": "152348",
+    "display_name": "Hondartzako Zubizaharra zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.42582161563992",
+    "lat": "43.1229021739189",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152348"
+},
+{
+    "boundingbox": [
+        "43.1413659389415",
+        "-2.41634468335499",
+        "-2.41592918963248",
+        "43.1411825689805"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152354",
+    "GFA_code1": "152354",
+    "GFA_id": "152354",
+    "display_name": "Osintxuko zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.41613192982258",
+    "lat": "43.1412770651188",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152354"
+},
+{
+    "boundingbox": [
+        "43.1333972528224",
+        "-2.4553861702034",
+        "-2.45531976500904",
+        "43.1332984319653"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152359",
+    "GFA_code1": "152359",
+    "GFA_id": "152359",
+    "display_name": "San Emeteriko zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.45535548565884",
+    "lat": "43.1333481245299",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152359"
+},
+{
+    "boundingbox": [
+        "43.1334028553465",
+        "-2.4584257382381",
+        "-2.45830537976065",
+        "43.1333055815647"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152360",
+    "GFA_code1": "152360",
+    "GFA_id": "152360",
+    "display_name": "Errotagaineko zubia",
+    "type": "bridge",
+    "city": "Bergara",
+    "lon": "-2.45836777925425",
+    "lat": "43.1333534185439",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152360"
+},
+{
+    "boundingbox": [
+        "43.1893063137733",
+        "-2.45184311386341",
+        "-2.45164386155994",
+        "43.1890970065415"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152375",
+    "GFA_code1": "152375",
+    "GFA_id": "152375",
+    "display_name": "Azitain 2 zubia",
+    "type": "bridge",
+    "city": "Eibar",
+    "lon": "-2.45174554362392",
+    "lat": "43.1892057221949",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152375"
+},
+{
+    "boundingbox": [
+        "43.1382159988752",
+        "-1.99940076743745",
+        "-1.99915016927783",
+        "43.1381015529862"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152379",
+    "GFA_code1": "152379",
+    "GFA_id": "152379",
+    "display_name": "Errementariena zubia",
+    "type": "bridge",
+    "city": "Elduain",
+    "lon": "-1.99927171458212",
+    "lat": "43.1381562803548",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152379"
+},
+{
+    "boundingbox": [
+        "42.9944065074357",
+        "-2.56728045128343",
+        "-2.56709139387746",
+        "42.9943017713544"
+    ],
+    "importance": 2.1178584,
+    "b5m_id": "G_A152384",
+    "GFA_code1": "152384",
+    "GFA_id": "152384",
+    "display_name": "Zurun zubia",
+    "type": "bridge",
+    "city": "Eskoriatza",
+    "lon": "-2.56718855196389",
+    "lat": "42.9943567959692",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152384"
+},
+{
+    "boundingbox": [
+        "43.028124953038",
+        "-2.39115711834684",
+        "-2.39054025841165",
+        "43.0278617188752"
+    ],
+    "postcode": "20569",
+    "door_number": "2",
+    "importance": 2.1178584,
+    "b5m_id": "D_A38980",
+    "GFA_code1": "72273",
+    "GFA_code2": "38980",
+    "GFA_id": "72273",
+    "display_name": "Nemesio Zubia, lantegia",
+    "type": "building",
+    "city": "Oñati",
+    "street": "Olabarrieta auzoa",
+    "lon": "-2.39085411969619",
+    "lat": "43.0279894309787",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/D_A38980"
+},
+{
+    "boundingbox": [
+        "43.165104185586",
+        "-2.33047159480043",
+        "-2.33005501223515",
+        "43.1648131804211"
+    ],
+    "importance": 2.0997405,
+    "b5m_id": "G_A152456",
+    "GFA_code1": "152456",
+    "GFA_id": "152456",
+    "display_name": "Ipintza zubia",
+    "type": "bridge",
+    "city": "Azkoitia",
+    "lon": "-2.33026276276374",
+    "lat": "43.1649575544191",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152456",
+    "synonyms": [
+        "San Joan zubia,San Juan, puente"
+    ]
+},
+{
+    "boundingbox": [
+        "43.3213041610084",
+        "-1.97912171549337",
+        "-1.97751539518944",
+        "43.3207015076225"
+    ],
+    "importance": 1.8759146,
+    "b5m_id": "K_069_1235",
+    "GFA_code1": "069",
+    "GFA_code2": "1235",
+    "GFA_id": "3246",
+    "display_name": "Santa Katalinako zubia",
+    "type": "street",
+    "city": "Donostia",
+    "lon": "-1.97819609503762",
+    "lat": "43.3209622312351",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_069_1235"
+},
+{
+    "boundingbox": [
+        "43.317393379873",
+        "-1.97901716147038",
+        "-1.97723805841967",
+        "43.3173045692176"
+    ],
+    "importance": 1.8759146,
+    "b5m_id": "K_069_1245",
+    "GFA_code1": "069",
+    "GFA_code2": "1245",
+    "GFA_id": "3248",
+    "display_name": "Maria Cristina zubia",
+    "type": "street",
+    "city": "Donostia",
+    "lon": "-1.978367722005",
+    "lat": "43.3173439555156",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_069_1245"
+},
+{
+    "boundingbox": [
+        "43.3493692250675",
+        "-1.78664999364142",
+        "-1.78470846954713",
+        "43.3478118719194"
+    ],
+    "importance": 1.8759146,
+    "b5m_id": "K_045_3115",
+    "GFA_code1": "045",
+    "GFA_code2": "3115",
+    "GFA_id": "1896",
+    "display_name": "Santiago zubia",
+    "type": "street",
+    "city": "Irun",
+    "lon": "-1.78569510566492",
+    "lat": "43.3486329019024",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_045_3115"
+},
+{
+    "boundingbox": [
+        "43.3086426959079",
+        "-1.9780407241783",
+        "-1.97700496273893",
+        "43.3079706305715"
+    ],
+    "importance": 1.8759146,
+    "b5m_id": "G_A152238",
+    "GFA_code1": "152238",
+    "GFA_id": "152238",
+    "display_name": "Jose Antonio Agirre zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.9775203764847",
+    "lat": "43.3083048602707",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152238"
+},
+{
+    "boundingbox": [
+        "43.3606193174127",
+        "-1.79524457789953",
+        "-1.7948472639299",
+        "43.3604950667816"
+    ],
+    "importance": 1.8759146,
+    "b5m_id": "G_A152273",
+    "GFA_code1": "152273",
+    "GFA_id": "152273",
+    "display_name": "Santa Grazia zubia",
+    "type": "bridge",
+    "city": "Hondarribia",
+    "lon": "-1.79504623819289",
+    "lat": "43.3605546081894",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152273"
+},
+{
+    "boundingbox": [
+        "43.3480130061318",
+        "-1.78713192984292",
+        "-1.78641695718413",
+        "43.347490763007"
+    ],
+    "importance": 1.8759146,
+    "b5m_id": "G_A151695",
+    "GFA_code1": "151695",
+    "GFA_id": "151695",
+    "display_name": "Santiagoko Zubia  Biribilgunea",
+    "type": "roundabout",
+    "city": "Irun",
+    "lon": "-1.78677374654038",
+    "lat": "43.3477529127329",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A151695"
+},
+{
+    "boundingbox": [
+        "43.3085732324097",
+        "-1.97800073781601",
+        "-1.97702776111641",
+        "43.3080331548372"
+    ],
+    "importance": 1.6835823,
+    "b5m_id": "K_069_2195",
+    "GFA_code1": "069",
+    "GFA_code2": "2195",
+    "GFA_id": "133021",
+    "display_name": "Jose Antonio Agirre zubia",
+    "type": "street",
+    "city": "Donostia",
+    "lon": "-1.97743332198414",
+    "lat": "43.3083491045514",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_069_2195"
+},
+{
+    "boundingbox": [
+        "43.3081167213929",
+        "-1.97494041221228",
+        "-1.97371058160921",
+        "43.3076500940927"
+    ],
+    "importance": 1.3971004,
+    "b5m_id": "G_A152237",
+    "GFA_code1": "152237",
+    "GFA_id": "152237",
+    "display_name": "Donostiako Realaren zubia",
+    "type": "bridge",
+    "city": "Donostia",
+    "lon": "-1.97432161905885",
+    "lat": "43.3078800199073",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/G_A152237"
+},
+{
+    "boundingbox": [
+        "43.308092914523",
+        "-1.97480488167978",
+        "-1.9737631854388",
+        "43.3077432438954"
+    ],
+    "importance": 1.2875543,
+    "b5m_id": "K_069_2535",
+    "GFA_code1": "069",
+    "GFA_code2": "2535",
+    "GFA_id": "133027",
+    "display_name": "Donostiako Realaren zubia",
+    "type": "street",
+    "city": "Donostia",
+    "lon": "-1.97428402811469",
+    "lat": "43.3079157008522",
+    "map_link": "https://b5m.gipuzkoa.eus/map-2021/mapa/K_069_2535"
+}]
